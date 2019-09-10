@@ -42,7 +42,6 @@
             app:layout_constraintTop_toBottomOf="@id/_actionbar"
             app:queryHint="Search"
             app:searchIcon="@drawable/ic_search_24dp" />
-
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/search_rv"
             style="@style/scrollbar_shape_style"
