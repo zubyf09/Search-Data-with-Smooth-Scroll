@@ -1,16 +1,18 @@
-# VivySearch
-# VIVY TAKE HOME TEST CHALLENGE
-This repository contains a nearby doctor search application for VIVY
+# VIVY Doctor Search 
+Search nearby doctors 
 <p align="center">
-  <img src="http://achraf.ps-platform.com/DEMO-min.gif" width="200" >
-  <img src="http://achraf.ps-platform.com/splash_screen.png" width="200">
+  <img src="https://github.com/zubyf09/VivySearch/blob/master/screenshots/splash.png" width="200" >
+  <img src="https://github.com/zubyf09/VivySearch/blob/master/screenshots/permission.png" width="200" >
+  <img src="https://github.com/zubyf09/VivySearch/blob/master/screenshots/searchscreen.png" width="200" >
+  
 
 </p>
 <br>
 <br>
 
+# MVVM ARCHITECTURE 
 
-# MVVM ARCHITECTURE
+# MVVM ARCHITECTURE 
 
 ### Library reference resources:
 1. Dagger2
