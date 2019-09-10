@@ -19,5 +19,8 @@ Search nearby doctors
 3. Live Data Room 
 4. Google Paging 
 5. Glide 
+6. Retrofit2
+7. Gson
+8. Intuit(SDP - a scalable size unit)
 
 
