@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VivyDoctorSearch</string>
+
+    <string name="api_no_data_response">No data in response.</string>
+    <string name="api_error_in_connecting_to_server">Error in connecting to the server.</string>
+    <string name="api_error_bad_response">Error in getting response</string>
+    <string name="api_error_time_out">Time out error.</string>
+    <string name="api_error_not_defined">An unexpected error happened!</string>
+    <string name="loading">Please wait ...</string>
+    <string name="empty_list">oops, List is empty.</string>
+
+</resources>
