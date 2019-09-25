@@ -1,7 +1,6 @@
-# VIVY Doctor Search 
+# Doctor Search 
 Search nearby doctors 
 <p align="center">
-  <img src="https://github.com/zubyf09/VivySearch/blob/master/screenshots/splash.png" width="200" >
   <img src="https://github.com/zubyf09/VivySearch/blob/master/screenshots/permission.png" width="200" >
   <img src="https://github.com/zubyf09/VivySearch/blob/master/screenshots/searchscreen.png" width="200" >
 </p>
